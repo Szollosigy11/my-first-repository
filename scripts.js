@@ -14,3 +14,8 @@ $("#gray").click(() => {
     $(".content").css("background","lightgray")
 })
 
+$("#setolor").click(() => {
+    $(".content").css("background", document.getElementById("color").value)
+})
+
+
