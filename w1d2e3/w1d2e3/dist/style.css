@@ -1,0 +1,30 @@
+main {
+  border: 10px solid #4285f4;
+  text-align: center;
+  width: 250px;
+  font-family: calibri;
+}
+
+p{
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  padding: 20px;
+  margin: 0px;
+}
+
+.n{
+  background-color: #E67676;
+}
+
+.e{
+  background-color: #F2F062;
+}
+
+.s{
+  background-color: #A9E6E6;
+}
+
+.w{
+  background-color: #7692E4;
+}

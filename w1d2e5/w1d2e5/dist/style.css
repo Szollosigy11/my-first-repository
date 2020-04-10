@@ -1,0 +1,19 @@
+main{
+  font-family: calibri;
+}
+
+h1 {
+  color: orange;
+}
+
+h2 {
+  color: purple;
+}
+
+ol {
+  color: pink;
+}
+
+.spec{
+  color: black;
+}

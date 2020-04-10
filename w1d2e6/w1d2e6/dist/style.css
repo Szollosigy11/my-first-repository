@@ -1,0 +1,27 @@
+form {
+  font-family: calibri;
+}
+
+label, input {
+  display: block;
+}
+
+label {
+  text-transform: uppercase;
+}
+
+input {
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid green;
+  border-radius: 10px;
+}
+
+button {
+  border: 2px solid green;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+}

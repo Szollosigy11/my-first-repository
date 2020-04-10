@@ -1,0 +1,40 @@
+header {
+  height :70px;
+  background: purple;
+  display: flex;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  align-items: center;
+  padding: 0px 90px;
+}
+
+a {
+  display: block;
+  height: 30px;
+  width: 100px;
+  background: cyan;
+  margin: 20px;
+}
+
+main {
+  margin: 80px 100px 10px;
+  height: 800px;
+  display: flex;
+}
+
+content{
+  background: yellow;
+  flex-grow: 4;
+}
+
+nav{
+  background: lime;
+  flex-grow: 1;
+}
+
+footer {
+  background: lightgray;
+  height: 80px;
+  margin: 0px 100px;
+}
